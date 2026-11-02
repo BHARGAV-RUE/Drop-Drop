@@ -26,6 +26,3 @@ Sharing large files often requires creating accounts, uploading to public cloud 
 | **Access Key** | `6-Digit Code` | Ephemeral, compressed short-code resolved via key-value store |
 | **Data Lifecycle** | Auto-expiring (TTL) | Temporary storage pipelines self-terminate after completion or TTL |
 
----
-
-## 🏗 High-Level System Architecture
